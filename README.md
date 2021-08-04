@@ -2,13 +2,15 @@
 ## Running the app
 To run your project, navigate to the directory and run the following commands.
 
-###iOS
+### iOS
 * `yarn`
 * `cd ios`
 * `pod install`
 * `cd ..`
 * `yarn ios`
-###Android
+
+### Android
 * `yarn android`
-##Please Note
+
+## Please Note
 * The image links provided in the APIs were invalid, so I've added the images to the bundle in the `assets` folder 
